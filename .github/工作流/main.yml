@@ -15,6 +15,7 @@ jobs:
         python-version: "3.10"
     - name: '安装python依赖'
       run: |
+        pip install beautifulsoup4
         python -m pip install --upgrade pip
         pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
         pip3 freeze > requirement.txt
