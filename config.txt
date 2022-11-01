@@ -1,0 +1,8 @@
+{
+"app_id":"wx8d53e77900cedd02",
+"app_secret":"4d78ff6a44a67c5efe6f7281fff012df",
+"template_id":"Btl02xP5olVB60QuI2N7K-NPycPbAGe-fpLhIAiRo5s",
+"user":["o1Ave6lVDweEAl0eWj-QPDhaNsew"],
+"birthday1":"2004-02-14",
+"love_date":"2022-10-27"
+}
