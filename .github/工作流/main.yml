@@ -1,10 +1,12 @@
 name: '微信定时推送任务'
 on:
+  workflow_dispatch:
   schedule:
     - cron: '00 23 * * *'
 permissions:
   contents: read
 jobs:
+  star：
   build:
     runs-on: ubuntu-latest
     steps:
