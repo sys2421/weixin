@@ -20,4 +20,4 @@ jobs:
         pip3 freeze > requirement.txt
     - name: '发送消息'
       run: |
-        python ./1.py
+        python ./main.py
